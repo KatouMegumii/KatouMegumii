@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&theme=tokyonight)
 
 
-![](https://github-readme-stats.vercel.app/api?username=KatouMegumiie&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=KatouMegumii&show_icons=true&theme=transparent)
 
 
 
