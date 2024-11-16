@@ -1,5 +1,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&theme=tokyonight)
-![Test](https://github-readme-activity-graph.cyclic.app/graph?username=KatouMegumii&theme=dracula)
+
+
+![](https://github-readme-stats.vercel.app/api?username=KatouMegumiie&show_icons=true&theme=transparent)
+
 
 
 <!--
