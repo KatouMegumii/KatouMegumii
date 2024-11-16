@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&langs_count=6)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatouMegumii&show_icons=true)
