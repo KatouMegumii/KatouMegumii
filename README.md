@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&hide_border=true&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&layout=compact&hide_border=true&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--o
 **KatouMegumii/KatouMegumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
