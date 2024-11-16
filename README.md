@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&hide_progress=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatouMegumii&hide_progress=true)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=KatouMegumii&show_icons=true&theme=transparent)
